@@ -1,4 +1,4 @@
-# Next.js on Netlify Platform Starter
+# Cursos de Capacitación
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
